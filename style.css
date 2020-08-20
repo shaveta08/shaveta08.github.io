@@ -1,0 +1,39 @@
+body{
+    font-family:sans-serif;
+    background-color:lightgray;
+}
+.navbar-brand{
+    background-color: lightseagreen;
+    padding: 1rem;
+}
+.mycontainer{
+    margin-top:70px;
+}
+.my-col-1{
+    height: 500px;
+}
+.img{
+    float:left;
+    margin:10px;
+}
+hr{
+    height:5px;
+}
+h1 ,h2{
+ font-family:Impact, Charcoal, sans-serif;
+}
+.responsive-image {
+    height: auto;
+    width: 100%;
+}
+.heading{
+text-align: center;
+font-family:Impact, Charcoal, sans-serif;
+color:lightseagreen;
+}
+/* .main-content{
+        display:flex;
+        position:absolute;
+       display: inline-block;
+       left:20%;
+} */
